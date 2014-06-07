@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding="UTF-8" ?>
+<doc xml:lang="ja">
+
+<body xml:lang="ja">
+
+<p xml:lang="en" format="latex2e">
+Copyright <native format="latex2e">{\copyright}</native> 2004 by Yasuhiro (Spiegel) <native format="latex2e">\textsc{Arakawa}</native>.
+</p><p xml:lang="en" format="html4">
+Copyright © 2004 by Yasuhiro (Spiegel) ARAKAWA.
+</p>
+
+<p format="latex2e">
+<img src="somerights2.png" />
+</p><p format="latex2e">
+本テキストは，クリエイティブ・コモンズの帰属ライセンスの下でライセンスされています。
+この使用許諾条件を見るには，
+<a href="http://creativecommons.org/licenses/by/2.0/jp/" />
+をチェックするか，クリエイティブ･コモンズに郵便にてお問い合わせください。
+住所は：559 Nathan Abbott Way, Stanford, California 94305, USA です。
+</p><blockquote format="html4">
+<native format="html4">
+<![CDATA[
+<!-- Creative Commons License -->
+<a rel="license" href="http://creativecommons.org/licenses/by/2.0/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" src="http://creativecommons.org/images/public/somerights2.png" width="88" height="62" /></a><br />
+本テキストは，
+<a rel="license" href="http://creativecommons.org/licenses/by/2.0/jp/">クリエイティブ・コモンズ・ライセンス</a>
+の下でライセンスされています。
+<a href="cc-report.xml.rdf" title="RDF version of the content" type="application/rdf+xml; charset=utf-8"><img src="rdf.png" alt="(RDF)" width="36" height="14" border="0" /></a>
+]]>
+</native>
+</blockquote>
+
+<p>
+本テキストは <a href="http://creativecommons.org/">Creative Commons</a> の <a href="http://creativecommons.org/licenses/by/2.0/jp/">帰属（by）ライセンス</a>の下で公開しています。
+すなわちオリジナルのテキストが私「荒川靖弘」によるものであることを明示していただければ，
+自由に再配布・再利用が可能です。
+</p><p>
+ライセンス情報のうち Digital Code については
+RSS<note><a href="http://www.alles.or.jp/~spiegel/docs/cc-report.xml.rdf" type="application/rdf+xml" /></note>
+から取得できます。
+</p>
+
+</body>
+</doc>

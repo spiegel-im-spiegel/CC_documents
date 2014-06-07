@@ -1,0 +1,126 @@
+<!-- bibliopole for cc-about -->
+<!-- modified 2005/05/08 (Yasuhiro ARAKAWA) -->
+<bibliopole>
+
+<book id="book:CODE">
+    <author>Lawrence Lessig</author>
+    <title>CODE</title>
+    <subtitle>インターネットの合法・違法・プライバシー</subtitle>
+    <publisher>翔泳社</publisher>
+    <year>2001</year>
+    <month>3</month>
+    <isbn>4-88135-993-2</isbn>
+    <note>山形浩生 訳，柏木亮二 訳</note>
+</book>
+
+<book id="book:Commons">
+    <author>Lawrence Lessig</author>
+    <title>コモンズ</title>
+    <subtitle>ネット上の所有権強化は技術革新を殺す</subtitle>
+    <publisher>翔泳社</publisher>
+    <year>2002</year>
+    <month>11</month>
+    <isbn>4-7981-0204-0</isbn>
+    <note>山形浩生 訳</note>
+</book>
+
+<book id="book:FreeCulture">
+    <author>Lawrence Lessig</author>
+    <title>FREE CULTURE</title>
+    <subtitle>いかに巨大メディアが法をつかって創造性や文化をコントロールするか</subtitle>
+    <publisher>翔泳社</publisher>
+    <year>2004</year>
+    <month>7</month>
+    <isbn>4-7981-0680-1</isbn>
+    <note>山形浩生 訳，守岡桜 訳</note>
+</book>
+
+<book id="book:CC-jp">
+    <author>Lawrence Lessig</author>
+    <author>林 紘一郎</author>
+    <author>椙山 敬士</author>
+    <author>若槻 絵美</author>
+    <author>上村 圭介</author>
+    <author>土屋 大洋</author>
+    <editor>クリエイティブ・コモンズ・ジャパン</editor>
+    <title>クリエイティブ・コモンズ</title>
+    <subtitle>デジタル時代の知的財産権</subtitle>
+    <publisher>NTT出版（株）</publisher>
+    <year>2005</year>
+    <month>3</month>
+    <isbn>4-7571-0152-X</isbn>
+</book>
+
+<article id="article:IM-200304">
+    <author>千田 千映</author>
+    <author>白田 秀彰</author>
+    <author>神崎 正英</author>
+    <title>クリエイティブコモンズとは</title>
+    <subtitle>著作権を自分でコントロールするための新しいツール</subtitle>
+    <uri>http://internet.impress.co.jp/im/pdf/cc.pdf</uri>
+    <journal>
+        <title>iNTERNET magazine</title>
+        <year>2003</year>
+        <month>4</month>
+        <publisher>インプレス</publisher>
+    </journal>
+</article>
+
+<article id="article:HotWired200311">
+    <author>土屋 大洋</author>
+    <author>バーチャルネット法律娘 真紀奈＋ロージナ茶会</author>
+    <author>荒川 靖弘</author>
+    <author>クリエイティブ・コモンズ・ジャパン</author>
+    <title>日本の「クリエイティブ・コモンズ」の可能性</title>
+    <uri>http://www.hotwired.co.jp/matrix/0311/</uri>
+    <journal>
+        <title>HotWired Japan特集記事</title>
+        <year>2003</year>
+        <month>11</month>
+        <publisher>HotWired Japan</publisher>
+    </journal>
+</article>
+
+<article id="article:IM-200402">
+    <author>バーチャルネット法律娘 真紀奈＋ロージナ茶会</author>
+    <title>ローレンス・レッシグ＋Creative Commonsインタビュー</title>
+    <uri>http://internet.impress.co.jp/im/pdf/im0402interview.pdf</uri>
+    <journal>
+        <title>iNTERNET magazine</title>
+        <year>2004</year>
+        <month>2</month>
+        <publisher>インプレス</publisher>
+    </journal>
+</article>
+
+<misc id="bib:MAT-cc">
+    <author>MAT</author>
+    <title>creative commons 日本語情報</title>
+    <uri>http://www2.117.ne.jp/~mat/cc/menujp.html</uri>
+</misc>
+
+<misc id="bib:kanzaki-cc">
+    <author>神崎 正英</author>
+    <title>クリエイティブ・コモンズのメタデータ</title>
+    <uri>http://www.kanzaki.com/docs/sw/ccm.html</uri>
+</misc>
+
+<misc id="bib:Lenz2003">
+    <author>Karl-Friedrich Lenz</author>
+    <title>著作権とCreative Commons 実施権</title>
+    <uri>http://k.lenz.name/j/r/CC.pdf</uri>
+</misc>
+
+<misc id="bib:CeM">
+    <author>バーチャルネット法律娘 真紀奈</author>
+    <title>Communitas ex Machina ～創作の場を創出する～</title>
+    <uri>http://homepage3.nifty.com/machina/cem/index.html</uri>
+</misc>
+
+<misc id="bib:mhatta2003">
+    <author>八田 真行</author>
+    <title>クリエイティヴ・コモンズに関する悲観的な見解</title>
+    <uri>http://japan.linux.com/opensource/03/09/29/0955208.shtml</uri>
+</misc>
+
+</bibliopole>

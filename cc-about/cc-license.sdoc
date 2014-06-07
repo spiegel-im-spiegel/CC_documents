@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="UTF-8" ?>
+<doc xml:lang="ja">
+
+<body xml:lang="ja">
+
+<p xml:lang="en" format="latex2e">
+Copyright <native format="latex2e">{\copyright}</native> 2003-2005 by Yasuhiro (Spiegel) <native format="latex2e">\textsc{Arakawa}</native>.
+</p><p xml:lang="en" format="html4">
+Copyright © 2003-2005 by Yasuhiro (Spiegel) ARAKAWA.
+</p>
+
+<p format="latex2e">
+<img src="somerights2.png" />
+</p><p format="latex2e">
+本テキストは，クリエイティブ・コモンズの帰属ライセンス<note><a href="http://creativecommons.org/licenses/by/2.1/jp/" /></note>の下でライセンスされています。
+</p><blockquote format="html4">
+<native format="html4">
+<![CDATA[
+<!-- Creative Commons License -->
+<a rel="license" href="http://creativecommons.org/licenses/by/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" src="http://creativecommons.org/images/public/somerights2.png" width="88" height="62" /></a><br />
+本テキストは，
+<a rel="license" href="http://creativecommons.org/licenses/by/2.1/jp/">クリエイティブ・コモンズ・ライセンス</a>
+の下でライセンスされています。
+<a href="cc-about.xml.rdf" title="RDF version of the content" type="application/rdf+xml; charset=utf-8"><img src="rdf.png" alt="(RDF)" width="36" height="14" border="0" /></a>
+]]>
+</native>
+</blockquote>
+
+<p>
+本テキストは <a href="http://creativecommons.org/">Creative Commons</a> の <a href="http://creativecommons.org/licenses/by/2.1/jp/">帰属（by）ライセンス</a>の下で公開しています。
+オリジナルのテキストが私「荒川靖弘」によるものであることを明示していただければ，
+自由に再配布・再利用が可能です。
+</p><p>
+ライセンス情報のうち Digital Code については
+RSS<note><a href="http://www.alles.or.jp/~spiegel/docs/cc-about.xml.rdf" type="application/rdf+xml" /></note>
+から取得できます。
+</p>
+
+</body>
+</doc>

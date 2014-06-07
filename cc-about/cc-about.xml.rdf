@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="./rss.xml.xsl" type="text/xsl" media="screen"?>
+<rdf:RDF 
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:wot="http://xmlns.com/wot/0.1/"
+  xml:lang="ja">
+
+  <channel rdf:about="http://www.alles.or.jp/~spiegel/dosc/cc-about.xml.rdf">
+    <title>「クリエイティブ・コモンズ」について</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about.html</link>
+    <description>「クリエイティブ・コモンズ」による開かれた著作権ライセンスについて解説します。</description>
+    <dc:language>ja</dc:language>
+    <dc:creator>荒川 靖弘</dc:creator>
+    <dc:creator xml:lang="en">Yasuhiro ARAKAWA</dc:creator>
+    <foaf:maker>
+      <foaf:Person>
+        <foaf:name>Yasuhiro ARAKAWA</foaf:name>
+        <foaf:mbox_sha1sum>fac755580a8e6edb5314a2b267ed60018a5366bc</foaf:mbox_sha1sum>
+        <rdfs:seeAlso rdf:resource="http://www.alles.or.jp/~spiegel/profile/foaf.rdf.xml"/>
+      </foaf:Person>
+    </foaf:maker>
+    <dc:rights>Copyright (c) 2003-2005 Yasuhiro (Spiegel) ARAKAWA</dc:rights>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/2.1/jp/" />
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about.html" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about.pdf" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-2.1.0.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.1.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.0.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.5.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.4.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.3.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.2.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.1.tar.bz2" />
+        <rdf:li rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about.tar.bz2" />
+      </rdf:Seq>
+    </items>
+  </channel>
+
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about.html">
+    <title>「クリエイティブ・コモンズ」について（最新版）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about.html</link>
+    <description>最新版テキスト。記述ミス等を修正</description>
+    <dc:date>2005-07-24T23:59:59+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about.pdf">
+    <title>「クリエイティブ・コモンズ」について（PDF 最新版）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about.pdf</link>
+    <description>最新版 PDF テキスト。記述ミス等を修正</description>
+    <dc:date>2005-07-24T23:59:59+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about.pdf.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-2.1.0.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.2.1.0 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-2.1.0.tar.bz2</link>
+    <description>Rev.2.1.0 マスタ文書。記述ミス等を修正</description>
+    <dc:date>2005-07-24T23:59:59+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-2.1.0.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.1.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.2.0.1 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.1.tar.bz2</link>
+    <description>Rev.2.0.1 マスタ文書。記述ミスを修正</description>
+    <dc:date>2004-03-19T18:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.1.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.0.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.2.0.0 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.0.tar.bz2</link>
+    <description>Rev.2.0.0 マスタ文書。日本版ライセンス正式公開にあわせて改訂，など</description>
+    <dc:date>2004-03-18T18:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-2.0.0.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.5.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.1.0.5 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.5.tar.bz2</link>
+    <description>Rev.1.0.5 マスタ文書。訳語・用語を刷新，「表明保証条項」について言及，CC-jp の活動について言及，など</description>
+    <dc:date>2003-09-15T18:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.5.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.4.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.1.0.4 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.4.tar.bz2</link>
+    <description>Rev.1.0.4 マスタ文書</description>
+    <dc:date>2003-06-08T18:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.4.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.3.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.1.0.3 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.3.tar.bz2</link>
+    <description>Rev.1.0.3 マスタ文書</description>
+    <dc:date>2003-03-14T09:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.3.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.2.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.1.0.2 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.2.tar.bz2</link>
+    <description>Rev.1.0.2 マスタ文書</description>
+    <dc:date>2003-02-18T09:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.2.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.1.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（Rev.1.0.1 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.1.tar.bz2</link>
+    <description>Rev.1.0.1 マスタ文書</description>
+    <dc:date>2003-02-05T09:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about-1.0.1.tar.bz2.sig"/>
+  </item>
+  <item rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about.tar.bz2">
+    <title>「クリエイティブ・コモンズ」について（初版 マスタ文書）</title>
+    <link>http://www.alles.or.jp/~spiegel/docs/cc-about.tar.bz2</link>
+    <description>初版 マスタ文書</description>
+    <dc:date>2003-01-29T09:00:00+09:00</dc:date>
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about.tar.bz2.sig"/>
+  </item>
+
+  <cc:License rdf:about="http://creativecommons.org/licenses/by/2.1/jp/">
+     <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+     <cc:permits rdf:resource="http://web.resource.org/cc/Distribution" />
+     <cc:requires rdf:resource="http://web.resource.org/cc/Notice" />
+     <cc:requires rdf:resource="http://web.resource.org/cc/Attribution" />
+     <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+  </cc:License>
+
+  <rdf:Description rdf:about="http://www.alles.or.jp/~spiegel/docs/cc-about.xml.rdf">
+    <wot:assurance rdf:resource="http://www.alles.or.jp/~spiegel/docs/cc-about.xml.rdf.sig"/>
+  </rdf:Description>
+
+</rdf:RDF>
